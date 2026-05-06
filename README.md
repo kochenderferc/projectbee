@@ -7,8 +7,8 @@ When you plug the Mega into a computer, it automatically dumps all stored readin
 as a CSV over Serial, then clears the buffer ready for the next run.
 
 ## Files
-* '''beehive_monitor.ino''' is the Arduino code; uploaded to Arduino Mega breadboard
-* '''beehive_logger.py''' is the Python script; run on computer after device connection to download the CSV
+* 'beehive_monitor.ino' is the Arduino code; uploaded to Arduino Mega breadboard
+* 'beehive_logger.py' is the Python script; run on computer after device connection to download the CSV
 
 ## Initial setup
 
